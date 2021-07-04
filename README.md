@@ -1,4 +1,5 @@
-## Hello, devs. Meu nome é Sueli Corrêa. 
+## Hello, devs. Meu nome é Sueli Corrêa.
+
 Sejam muito bem-vindos!!
 
  <div>
@@ -17,19 +18,20 @@ Sejam muito bem-vindos!!
   <img align="center" alt="sucorrea-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="sucorrea-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="sucorrea-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <div style="padding: 10px">
-    <img align="center" alt="Tech" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</div>
+    <div style="
+    padding: 10px
+    width: 150px
+    heidth: 150px
+    ">
+      <img align="center" alt="Tech" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+    </div>
 </div>
   
   ##
  
 <div>
-  <a href="https://www.linkedin.com/in/sueli-corr%C3%AAa-de-oliveira-b5806225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/sueli-corr%C3%AAa-de-oliveira-b5806225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  <a href = "mailto:oliver.sueli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-
+<a href = "mailto:oliver.sueli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
- 
