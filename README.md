@@ -5,7 +5,7 @@ Sejam muito bem-vindos!!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucorrea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucorrea&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
-<div style="display: flex"><br>
+<div style="display: inline_block"><br>
   Habilidades:
   <img align="center" alt="sucorrea-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="sucorrea-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
