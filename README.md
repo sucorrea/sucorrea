@@ -18,12 +18,8 @@ Sejam muito bem-vindos!!
   <img align="center" alt="sucorrea-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="sucorrea-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="sucorrea-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <div style="
-    padding: 10px
-    width: 150px
-    heidth: 150px
-    ">
-      <img align="center" alt="Tech" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+    <div>
+      <img align="center" alt="Tech" height="150" width="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
     </div>
 </div>
   
