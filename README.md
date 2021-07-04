@@ -2,7 +2,7 @@
 Sejam muito bem-vindos!!
  <div>
   <a href="https://github.com/sucorrea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lougansjs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucorrea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucorrea&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 <div style="display: flex"><br>
