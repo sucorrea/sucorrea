@@ -9,7 +9,7 @@ Sejam muito bem-vindos!!
 </div>
 <div style="display: inline_block"><br>
   Habilidades:
-  <img align="center" alt="sucorrea-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align-items="center" alt="sucorrea-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="sucorrea-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   <img align="center" alt="sucorrea-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,8 +18,8 @@ Sejam muito bem-vindos!!
   <img align="center" alt="sucorrea-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="sucorrea-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="sucorrea-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <div>
-      <img align="center" alt="Tech" height="150" width="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+    <div style="alighn">
+      <img  alt="Tech" height="150" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
     </div>
 </div>
   
