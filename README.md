@@ -1,6 +1,4 @@
-## Hello, devs. Meu nome é Sueli Corrêa.
-
-Sejam muito bem-vindos!!
+## Hello, devs. Sejam muito bem-vindos!!
 
  <div>
   <a href="https://github.com/sucorrea">
