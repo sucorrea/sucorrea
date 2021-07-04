@@ -1,5 +1,6 @@
 ## Hello, devs. Meu nome é Sueli Corrêa. 
 Sejam muito bem-vindos!!
+
  <div>
   <a href="https://github.com/sucorrea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucorrea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,6 +17,8 @@ Sejam muito bem-vindos!!
   <img align="center" alt="sucorrea-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="sucorrea-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="sucorrea-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="right" alt="Tech" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 </div>
   
   ##
