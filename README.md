@@ -6,7 +6,7 @@ Sejam muito bem-vindos!!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucorrea&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 <div style="display: flex"><br>
- 
+  Habilidades:
   <img align="center" alt="sucorrea-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="sucorrea-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   
