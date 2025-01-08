@@ -5,6 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucorrea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucorrea&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
+
+##
+ <br clear="both">
+
+<img src="https://raw.githubusercontent.com/raphaelcarlosr/raphaelcarlosr/output/snake.svg" alt="Snake animation" />
+ 
+  ##
 <div style="display: inline_block"><br>
   Habilidades:
   <img align="center" alt="sucorrea-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -18,12 +25,7 @@
 </div>
 </div>
 
-##
- <br clear="both">
 
-<img src="https://raw.githubusercontent.com/raphaelcarlosr/raphaelcarlosr/output/snake.svg" alt="Snake animation" />
- 
-  ##
  
 <div>
   <a href="https://www.linkedin.com/in/sueli-corr%C3%AAa-de-oliveira-b5806225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
