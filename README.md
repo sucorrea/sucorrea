@@ -17,7 +17,12 @@
       <img  alt="Tech" margin= "20px"height="150" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 </div>
-  
+
+##
+ <br clear="both">
+
+<img src="https://raw.githubusercontent.com/raphaelcarlosr/raphaelcarlosr/output/snake.svg" alt="Snake animation" />
+ 
   ##
  
 <div>
@@ -26,10 +31,6 @@
 <a href = "mailto:oliver.sueli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/raphaelcarlosr/raphaelcarlosr/output/snake.svg" alt="Snake animation" />
 
 ###
