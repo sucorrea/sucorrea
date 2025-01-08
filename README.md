@@ -26,3 +26,10 @@
 <a href = "mailto:oliver.sueli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/raphaelcarlosr/raphaelcarlosr/output/snake.svg" alt="Snake animation" />
+
+###
